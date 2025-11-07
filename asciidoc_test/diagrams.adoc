@@ -3,7 +3,7 @@
 Requires the ASciiDoc extension.
 
 ```mermaid
-   graph
+graph
    accTitle: My title here
    accDescr: My description here
    A-->B
